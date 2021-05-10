@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abioseth1" alt="abioseth1" /></a> </p>
 
-- 🔭 I’m currently working on [Code and No-code projects and cloud computing - Alexa Skills](https://www.notion.so/126061e3c8634804a0953e2b19bb8710)
+- 🔭 I’m currently working on [React and Node JS]
 
-- 🌱 I’m currently learning **JS and ML**
+- 🌱 I’m currently learning **JS frameworks and ML**
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
