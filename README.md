@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Abiola.tech1@gmail.com**
 
-- 📄 Know about my experiences [https://abioseth1.github.io/profile/](https://abioseth1.github.io/profile/)
+- 📄 Know about my experiences [https://abioseth1.github.io/portfolio/](https://abioseth1.github.io/portfolio/)
 
 - ⚡ Fun fact **I’m adventurous, hike every fortnight**
 
