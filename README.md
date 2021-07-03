@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available here and on my website
 - 📝 I regularly write articles on [http://linkedin.com/in/abiola-abiodun1](http://linkedin.com/in/abiola-abiodun1)
 
-- 💬 Ask me about **AWS, ML, IoT and mechanical design**
+- 💬 Ask me about **AWS, Azure, ML, IoT and mechanical design**
 
 - 📫 How to reach me **abioseth1@gmail.com**
 
