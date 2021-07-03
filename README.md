@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **AWS, ML, IoT and mechanical design**
 
-- 📫 How to reach me **Abiola.tech1@gmail.com**
+- 📫 How to reach me **abioseth1@gmail.com**
 
-- 📄 Know about my experiences [https://abioseth1.github.io/portfolio/](https://abioseth1.github.io/portfolio/)
+- 📄 Know about my experiences Wwebsite-(https://abiolatech.com)
 
 - ⚡ Fun fact **I’m adventurous, hike every fortnight**
 
