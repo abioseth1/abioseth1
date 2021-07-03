@@ -13,15 +13,14 @@
 
 - 🤝 I’m looking for help with **Career advice in tech and good portfolio projects**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/126061e3c8634804a0953e2b19bb8710](https://www.notion.so/126061e3c8634804a0953e2b19bb8710)
-
+- 👨‍💻 All of my projects are available here and on my website
 - 📝 I regularly write articles on [http://linkedin.com/in/abiola-abiodun1](http://linkedin.com/in/abiola-abiodun1)
 
 - 💬 Ask me about **AWS, ML, IoT and mechanical design**
 
 - 📫 How to reach me **abioseth1@gmail.com**
 
-- 📄 Know about my experiences Wwebsite-(https://abiolatech.com)
+- 📄 Know about my experiences via website-(https://abiolatech.com)
 
 - ⚡ Fun fact **I’m adventurous, hike every fortnight**
 
