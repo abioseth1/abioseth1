@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abioseth1" alt="abioseth1" /></a> </p>
 
-- 🔭 I’m currently working on [React and Node JS]
+- 🔭 I’m currently working on Azure Certifications and AI Projects
 
-- 🌱 I’m currently learning **JS frameworks and ML**
+- 🌱 I’m currently learning ** IaaC(Chef, Terraform) tools, ML**
 
 - 👯 I’m looking to collaborate on **AI and ML projects**
 
