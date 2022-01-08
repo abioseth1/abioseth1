@@ -8,7 +8,7 @@
 - 🔭 I’m currently developing a business website for a micro client https://jimkleanservice.com/
 - 🌱 I’m currently learning ** Smart contract design using Solidity **
 
-- 👯 I’m looking to collaborate on **AI and ML projects**
+- 👯 I’m looking to collaborate on *AI and ML projects*
 
 - 🤝 I’m looking for help with **Career advice in tech and good portfolio projects**
 
