@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abioseth1" alt="abioseth1" /></a> </p>
 
 - 🔭 I’m currently developing a business website for a micro client https://jimkleanservice.com/
-- 🌱 I’m currently learning ** Smart contract design using Solidity **
+- 🌱 I’m currently learning * Smart contract design using Solidity *
 
 - 👯 I’m looking to collaborate on *AI and ML projects*
 
-- 🤝 I’m looking for help with **Career advice in tech and good portfolio projects**
+- 🤝 I’m looking for help with *Career advice in tech and good portfolio projects*
 
 - 👨‍💻 All of my projects are available here and on my website
 - 📝 I regularly write articles on [http://linkedin.com/in/abiola-abiodun1](http://linkedin.com/in/abiola-abiodun1)
